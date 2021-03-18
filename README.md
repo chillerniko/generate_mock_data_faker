@@ -32,3 +32,7 @@ http://localhost:3030/lorem
 http://localhost:3030/userCard
 
 http://localhost:3030/createCard
+
+
+Thanks to 
+https://dev.to/myogeshchavan97/how-to-generate-mock-data-within-seconds-using-node-js-2e4l
