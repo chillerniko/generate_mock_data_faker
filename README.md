@@ -5,6 +5,7 @@ generate_mock_data_faker Generate mock data using Node.js
 RUN PROJECT
 
 1.- npm install
+
 2.- npm start
 
 Now enter to http://localhost:3030
